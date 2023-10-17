@@ -9,3 +9,13 @@ In this machine learning project on Hand Gesture Recognition, we are going to ma
 # MediaPipe to recognize the hand and the hand key points. MediaPipe returns a total of 21 key points for each detected hand.
 ![image](https://github.com/Sridhar922/Hand-Gesture-Recognition/assets/122592164/fbb2171c-e2a7-4b31-ac3f-bac800f8092e)
 
+# Steps to solve the project:
+1. Import necessary packages.
+
+2. Initialize models.
+
+3. Read frames from a webcam.
+
+4. Detect hand keypoints.
+
+5. Recognize hand gestures.
